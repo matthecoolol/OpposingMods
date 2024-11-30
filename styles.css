@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(47, 71, 49);
+  }
+
+  button { background-color: #425242;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  button:hover {
+    background-color: #29352a;
+}
+
+h1 {
+  color: rgb(155, 155, 155);
+}
+
+ p {
+  color: rgb(155, 155, 155);
+}
+
+h2 {
+  color: rgb(155, 155, 155);
+}
+
+h3 {
+  color: rgb(155, 155, 155);
+}
